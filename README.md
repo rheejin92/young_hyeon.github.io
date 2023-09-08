@@ -9,3 +9,20 @@ Pandas
 Slack
 
 <img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" />
+
+'''
+Mail :
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
